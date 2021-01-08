@@ -1,0 +1,17 @@
+#header{
+    font-size: 2.5em;
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 30px;
+}
+
+.sec1{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border:2px solid;
+    border-color: cornflowerblue;
+    width:90%;
+    background-color:seashell;
+}
